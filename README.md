@@ -28,6 +28,7 @@ The dataset contains **10,000 machine records** with information related to:
 ## Power BI Dashboard
 
 The Power BI dashboard provides an interactive overview of machine health and failure patterns.
+[Predictive Maintenance Dashboard](https://github.com/Palak1072005/Machine-Maintenance-Failure-Analytics/blob/main/Machine_Maintenance_Dashboard.png)
 
 ### Key Performance Indicators
 
